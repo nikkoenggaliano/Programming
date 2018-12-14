@@ -2,7 +2,8 @@
 
 Diberika soal matematika dengan deskripsi sebagai berikut
 
-![](/Programming/matematika/deret/soal.jpg)
+![](https://github.com/nikkoenggaliano/Programming/blob/master/matematika/deret/soal.jpg)
+
 
 Jadi kita harus memindahkan sebuah bendera ke dalam botol mulai pada jarak terjau yaitu B10 terus sampai ke B1.
 
